@@ -338,7 +338,7 @@
 .left-set, .right-set {
   position: relative;
   width: 50%;
-  height: 60%;
+  height: auto;
 }
 .left-set {
   float: left;
